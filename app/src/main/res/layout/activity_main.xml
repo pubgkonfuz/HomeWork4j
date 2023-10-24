@@ -51,7 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:text="Remember me"
-        android:textColor="@color/black" />
+        android:textColor="@color/greу" />
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/exit"
